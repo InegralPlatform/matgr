@@ -18,23 +18,25 @@
  * @package WordPress
  */
 
-// ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpress-en' );
+ // ** MySQL settings - You can get this info from your web host ** //
+ /** The name of the database for WordPress */
+ define('WP_CACHE', true);
+ define( 'WPCACHEHOME', 'C:\xampp\htdocs\DO\wordpress\wp-content\plugins\wp-super-cache/' );
+ define( 'DB_NAME', 'd1agegn4supdk9' );
 
-/** MySQL database username */
-define( 'DB_USER', 'root' );
+ /** MySQL database username */
+ define( 'DB_USER', 'rbkuxwekdbmlzj' );
 
-/** MySQL database password */
-define( 'DB_PASSWORD', '' );
+ /** MySQL database password */
+ define( 'DB_PASSWORD', 'a3d14955b74bf2b5e0170cebd2b2aa090c5dfb2cb24113c96ba1922fab938974' );
 
-/** MySQL hostname */
-define( 'DB_HOST', '127.0.0.1' );
 
-/** Database Charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8' );
+ /** MySQL hostname */
+ define( 'DB_HOST', 'ec2-54-225-129-101.compute-1.amazonaws.com' );
 
-/** The Database Collate type. Don't change this if in doubt. */
+
+
+ /** Database Charset to use in creating database tables. */
 define( 'DB_COLLATE', '' );
 
 /**#@+

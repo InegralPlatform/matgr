@@ -28,16 +28,17 @@ define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settin
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
 define( 'WPCACHEHOME', 'C:\xampp\htdocs\DO\wordpress\wp-content\plugins\wp-super-cache/' );
-define( 'DB_NAME', 'jeqs823jkgrzgnhp' );
+define( 'DB_NAME', 'd1agegn4supdk9' );
 
 /** MySQL database username */
-define( 'DB_USER', '	nbxv4kvrdickseu1' );
+define( 'DB_USER', 'rbkuxwekdbmlzj' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'udefvthyz08tj387' );
+define( 'DB_PASSWORD', 'a3d14955b74bf2b5e0170cebd2b2aa090c5dfb2cb24113c96ba1922fab938974
+' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'icopoghru9oezxh8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'ec2-54-225-129-101.compute-1.amazonaws.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
