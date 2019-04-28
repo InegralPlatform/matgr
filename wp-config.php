@@ -28,22 +28,21 @@ define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settin
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
 define( 'WPCACHEHOME', 'C:\xampp\htdocs\DO\wordpress\wp-content\plugins\wp-super-cache/' );
-define( 'DB_NAME', 'd1agegn4supdk9' );
+define( 'DB_NAME', 'hi23jmaq56gpjzur' );
 
 /** MySQL database username */
-define( 'DB_USER', 'rbkuxwekdbmlzj' );
+define( 'DB_USER', 'a60x3tpg6k616j16' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'a3d14955b74bf2b5e0170cebd2b2aa090c5dfb2cb24113c96ba1922fab938974
-' );
+define( 'DB_PASSWORD', '	enngs9wxivshvg3h' );
+
 
 /** MySQL hostname */
-define( 'DB_HOST', 'ec2-54-225-129-101.compute-1.amazonaws.com' );
+define( 'DB_HOST', 'icopoghru9oezxh8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
+
+
 
 /** Database Charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8mb4' );
-
-/** The Database Collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
 /**#@+
