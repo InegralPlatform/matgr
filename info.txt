@@ -1,0 +1,45 @@
+pass:q&&sw^I)gV0Snf@ej%
+username:admin
+-------------
+heroku DB
+
+------------
+Theme:ocean wp theme
+------------------
+Plugins: woo e-commercy
+       : really simple ssl
+       :updraft plus wordpress backup
+       :Yoast SE
+       :wp mail	
+:Ocean Product Sharing
+:iThemes Security (formerly Better WP Security)
+-------------------------
+
+-----------what we buy------------------------------------
+1-New
+  New in
+  Back in
+  Exclusives
+  Best Sellers
+  Comming Soon
+-------------
+2-Collection2019
+--------------
+3-Abayas
+  Closed Abayas
+  Open Abayas  
+  Black Abayas 
+--------------
+4-Coats
+-------------
+5-Dresses
+   Slip Dresses
+   Jumber Dresses
+ ------------
+6-Hijabs
+  Silk Hijab
+  Jersey  Hijab
+  Soft Touch Hijab
+  LightWeight Hijab
+------------
+7- Sale

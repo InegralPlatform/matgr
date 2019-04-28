@@ -1,0 +1,12 @@
+2019-04-24T16:10:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\DO\wordpress\wp-content\plugins\elementor\includes\settings\system-info\main.php on line 7
+
+2019-04-24T16:10:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\DO\wordpress\wp-content\plugins\elementor\includes\settings\system-info\main.php on line 7
+
+2019-04-24T16:11:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\DO\wordpress\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-04-24T16:11:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\DO\wordpress\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-04-24T16:17:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\DO\wordpress\wp-content\plugins\ocean-extra\includes\walker.php on line 10
+
+2019-04-24T19:12:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\DO\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
