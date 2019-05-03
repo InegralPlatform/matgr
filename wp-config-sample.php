@@ -22,17 +22,17 @@
  /** The name of the database for WordPress */
  define('WP_CACHE', true);
  define( 'WPCACHEHOME', 'C:\xampp\htdocs\DO\wordpress\wp-content\plugins\wp-super-cache/' );
- define( 'DB_NAME', 'hi23jmaq56gpjzur' );
+ define( 'DB_NAME', 'WordPress' );
 
  /** MySQL database username */
- define( 'DB_USER', 'a60x3tpg6k616j16' );
+ define( 'DB_USER', 'root' );
 
  /** MySQL database password */
- define( 'DB_PASSWORD', 'enngs9wxivshvg3h' );
+ define( 'DB_PASSWORD', '' );
 
 
  /** MySQL hostname */
- define( 'DB_HOST', 'icopoghru9oezxh8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
+ define( 'DB_HOST', '127.0.0.1' );
 
 
 

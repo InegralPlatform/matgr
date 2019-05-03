@@ -23,7 +23,10 @@ define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settin
  *
  * @package WordPress
  */
-
+ define( 'AS3CF_SETTINGS', serialize( array(
+     'provider' => 'gcp',
+     'key-file-path' => '/path/to/key/file.json',
+ ) ) );
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
