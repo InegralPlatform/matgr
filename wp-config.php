@@ -1,5 +1,6 @@
 <?php
 
+
 // BEGIN iThemes Security - Do not modify or remove this line
 // iThemes Security Config Details: 2
 define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settings > WordPress Tweaks > File Editor
@@ -23,10 +24,7 @@ define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settin
  *
  * @package WordPress
  */
- define( 'AS3CF_SETTINGS', serialize( array(
-     'provider' => 'gcp',
-     'key-file-path' => '/path/to/key/file.json',
- ) ) );
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
@@ -67,7 +65,10 @@ define( 'LOGGED_IN_SALT',   'H-g(Ce*FTEWxl,Mcd<x3J!$BLGQJtmUVT~w|*#Me2a70nRqO{eT
 define( 'NONCE_SALT',       'gS]7YAsA*96U+3axR-ZBxB=,#=(b8jbQ5Gux/%hd_WWg&k0Y>;I<-+Nd&}Sy[hN1' );
 
 /**#@-*/
-
+define( 'S3_UPLOADS_BUCKET', 'my-bucket' );
+define( 'S3_UPLOADS_KEY', '' );
+define( 'S3_UPLOADS_SECRET', '' );
+define( 'S3_UPLOADS_REGION', 's3.sa-east-1.amazonaws.com' ); // the s3 bucket region (excluding the rest of the URL)
 /**
  * WordPress Database Table prefix.
  *
@@ -88,6 +89,12 @@ $table_prefix = 'wp_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
+ define( 'AS3CF_SETTINGS', serialize( array(
+     'provider' => 'aws',
+     'access-key-id' => 'AKIAUALRFSIEPIFT5MEV',
+     'secret-access-key' => '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',
+ ) ) );
+
 define( 'WP_DEBUG', false );
 
 /* That's all, stop editing! Happy publishing. */

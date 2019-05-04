@@ -22,7 +22,7 @@
  /** The name of the database for WordPress */
  define('WP_CACHE', true);
  define( 'WPCACHEHOME', 'C:\xampp\htdocs\DO\wordpress\wp-content\plugins\wp-super-cache/' );
- define( 'DB_NAME', 'WordPress' );
+ define( 'DB_NAME', 'wordpress' );
 
  /** MySQL database username */
  define( 'DB_USER', 'root' );

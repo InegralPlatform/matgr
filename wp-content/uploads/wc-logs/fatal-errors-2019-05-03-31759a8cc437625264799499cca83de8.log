@@ -1,0 +1,6 @@
+2019-05-03T13:48:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\DO\matgr\wp-content\plugins\wp-mail-smtp\src\Processor.php on line 10
+
+2019-05-03T13:49:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\DO\matgr\wp-content\plugins\ocean-extra\includes\widgets\social-share.php on line 9
+
+2019-05-03T13:55:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\DO\matgr\wp-includes\wp-db.php on line 2007
+
