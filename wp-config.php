@@ -1,6 +1,6 @@
 <?php
 
-
+define( 'UPLOADS', 'wp-content/'.'uploads' );
 // BEGIN iThemes Security - Do not modify or remove this line
 // iThemes Security Config Details: 2
 define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settings > WordPress Tweaks > File Editor
